@@ -1,0 +1,5 @@
+{
+  "token": "BOT_TOKEN_HERE",
+  "invite": "BOT_INVITE" (optional),
+  "server": "SUPPORT_SERVER"
+}
